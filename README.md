@@ -1,14 +1,4 @@
 
-
-# 💫 About Me:    [![](https://visitcount.itsvg.in/api?id=ayush1009208&icon=0&color=0)](https://visitcount.itsvg.in)
-Hi, I’m **@ayush1009208**  <br>  
-👀 I’m interested in **Full-stack Development** and exploring unique project ideas  <br>  
-🌱 I’m currently learning **Flask** and diving into **Next.js** and **SQLAlchemy**<br>  
-💡 I’m working on creative projects like **SinkedIn** and **Ecomine**<br>  
-💞️ I’m looking to collaborate on open-source projects, especially for **Kiwwix**  <br>  
-📫 How to reach me: **ayush1009208@gmail.com**  
-
----
 <div align="center">
 
 # 💻 Tech Stack:
