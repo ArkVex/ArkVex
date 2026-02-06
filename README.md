@@ -27,9 +27,7 @@
 
 ---
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayush1009208&theme=dark&hide_border=false)
 
 [![An image of @ayush1009208's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ayush1009208)](https://holopin.io/@ayush1009208)
 
