@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="600" alt="Animated pixel-art Batman logo" src="assets/bat-signal.svg" />
+<img width="600" alt="Animated pixel-art Batman logo" src="assets/bat-logo.svg" />
 
 # 💻 Tech Stack:
 
