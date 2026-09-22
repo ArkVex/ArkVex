@@ -43,10 +43,10 @@
 
 # 📊 Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ArkVex&show_icons=true&hide_border=true&bg_color=00000000&title_color=fea002&icon_color=fea002&text_color=c9d1d9&ring_color=fea002" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkVex&layout=compact&hide_border=true&bg_color=00000000&title_color=fea002&text_color=c9d1d9" alt="Top languages" />
+<img width="46%" src="profile-summary-card-output/gruvbox/1-repos-per-language.svg" alt="Repos per language" />
+<img width="46%" src="profile-summary-card-output/gruvbox/3-stats.svg" alt="GitHub stats" />
 
-<img src="https://streak-stats.demolab.com?user=ArkVex&hide_border=true&background=00000000&ring=fea002&fire=fea002&currStreakLabel=fea002&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="Streak stats" />
+<img src="https://streak-stats.demolab.com?user=ArkVex&hide_border=true&background=00000000&ring=fea002&fire=fea002&currStreakLabel=fea002&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&v=2" alt="Streak stats" />
 
 ---
 
